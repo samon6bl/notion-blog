@@ -6,8 +6,6 @@ This is an example Next.js project that shows Next.js' upcoming SSG (static-site
 
 **Live Example hosted on Vercel**: https://notion-blog.vercel.app/
 
-## Getting Started
-
 To view the steps to setup Notion to work with this example view the post at https://notion-blog.vercel.app/blog/my-first-post or follow the steps below.
 
 ## Deploy Your Own
